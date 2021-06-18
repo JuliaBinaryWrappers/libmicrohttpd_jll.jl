@@ -1,0 +1,143 @@
+[[libmicrohttpd]]
+arch = "aarch64"
+git-tree-sha1 = "9acda41f8d0d3dd729548b335d4a602695c34843"
+os = "macos"
+
+    [[libmicrohttpd.download]]
+    sha256 = "61d5cf2a329380dde1fd9602152b72f4bd002cd163ba25a1ef99a80036a9439e"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.aarch64-apple-darwin.tar.gz"
+[[libmicrohttpd]]
+arch = "aarch64"
+git-tree-sha1 = "8d9e8f49c7b77b2d2f1e2feebd23897d7dcc47d6"
+libc = "glibc"
+os = "linux"
+
+    [[libmicrohttpd.download]]
+    sha256 = "8b31e5827e1280a2511b7e89b8853a443bb554519689459a4d65119b92ae895a"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.aarch64-linux-gnu.tar.gz"
+[[libmicrohttpd]]
+arch = "aarch64"
+git-tree-sha1 = "6b08cf5e9b30f95493d7ee46843635d2a732c7b3"
+libc = "musl"
+os = "linux"
+
+    [[libmicrohttpd.download]]
+    sha256 = "91011f66b480103aae394672f68f5363ae1ae9ebb65b64ba7eccd185d2e441d5"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.aarch64-linux-musl.tar.gz"
+[[libmicrohttpd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f199fb037496ceb656d167fc863614195d572e35"
+libc = "glibc"
+os = "linux"
+
+    [[libmicrohttpd.download]]
+    sha256 = "f43ddcbf1b4e1f8178b6b1b9788b6988c2e8194c817928e3f710c42df83d5788"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.armv6l-linux-gnueabihf.tar.gz"
+[[libmicrohttpd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fc36fefd90184120394fbe2ef4124f8ca844d537"
+libc = "musl"
+os = "linux"
+
+    [[libmicrohttpd.download]]
+    sha256 = "e31bc007eb3960659c607cc8cbdb9c603c6a8768af76f158a8a21472d04b8e0d"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.armv6l-linux-musleabihf.tar.gz"
+[[libmicrohttpd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bd658d610392aa63c263008dcd421184b394685e"
+libc = "glibc"
+os = "linux"
+
+    [[libmicrohttpd.download]]
+    sha256 = "71fa48112e20315537d2f1c0d0274f75666035518637b5287ab66267dc98229f"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.armv7l-linux-gnueabihf.tar.gz"
+[[libmicrohttpd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "69d85fe97c862ff35913495537aafb5c2e704ae9"
+libc = "musl"
+os = "linux"
+
+    [[libmicrohttpd.download]]
+    sha256 = "d494a1decce320b8cb1134d772efa132a52c2dda585b329964c45ed5d88ef3fc"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.armv7l-linux-musleabihf.tar.gz"
+[[libmicrohttpd]]
+arch = "i686"
+git-tree-sha1 = "c2fd7fdd5489a7d6df5373877bdb26be7a0f249c"
+libc = "glibc"
+os = "linux"
+
+    [[libmicrohttpd.download]]
+    sha256 = "85727a25750b0764676960682a570bc0e3bbf443bf5c99ca71f4d583c790b903"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.i686-linux-gnu.tar.gz"
+[[libmicrohttpd]]
+arch = "i686"
+git-tree-sha1 = "6320a4d8d39d05377a29e4c4b94eb2edf9f1be6c"
+libc = "musl"
+os = "linux"
+
+    [[libmicrohttpd.download]]
+    sha256 = "94cd847a67a433ceaea3af6d4a0e8be7218aa9b2706a2579b09d586849bdbe52"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.i686-linux-musl.tar.gz"
+[[libmicrohttpd]]
+arch = "i686"
+git-tree-sha1 = "a311dfc0c9065a7569a5ebcd20d9a5db55703f26"
+os = "windows"
+
+    [[libmicrohttpd.download]]
+    sha256 = "5d7df05fa22e253e609af1931f69a93fdc44e03d2b3924cd0ba6e9c75961493c"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.i686-w64-mingw32.tar.gz"
+[[libmicrohttpd]]
+arch = "powerpc64le"
+git-tree-sha1 = "b2465df764439ca23c4914cde727549cacbaff8f"
+libc = "glibc"
+os = "linux"
+
+    [[libmicrohttpd.download]]
+    sha256 = "ce294ce3278f856058f51214c8b7ada662cc6ce2a6251d08f70af4de65666ebd"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.powerpc64le-linux-gnu.tar.gz"
+[[libmicrohttpd]]
+arch = "x86_64"
+git-tree-sha1 = "d3a04458bc931fa9675874a702ad1fb3dc9d891b"
+os = "macos"
+
+    [[libmicrohttpd.download]]
+    sha256 = "876d8bf165f784822e0318a17f1ec414309f07e6c565f0ca32483b0a4527cd91"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.x86_64-apple-darwin.tar.gz"
+[[libmicrohttpd]]
+arch = "x86_64"
+git-tree-sha1 = "e6d4e8650b72c84337e839fe32167de02aa4d6f0"
+libc = "glibc"
+os = "linux"
+
+    [[libmicrohttpd.download]]
+    sha256 = "e656cc2744652cd4d4748f99c441fda211bea0e731eacf794e43b7cc291dfa9f"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.x86_64-linux-gnu.tar.gz"
+[[libmicrohttpd]]
+arch = "x86_64"
+git-tree-sha1 = "3c4f35177dcb58048b4c7fe6209e84e95254603e"
+libc = "musl"
+os = "linux"
+
+    [[libmicrohttpd.download]]
+    sha256 = "b6cfd7afa4157d9c72671a47ffafaa948a6fea7a8915cfc830bfb8587850fd34"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.x86_64-linux-musl.tar.gz"
+[[libmicrohttpd]]
+arch = "x86_64"
+git-tree-sha1 = "a76db31c062fe264834de616520dc532d4c26cd5"
+os = "freebsd"
+
+    [[libmicrohttpd.download]]
+    sha256 = "ea37a7e29d8356f6efb194dc02382b94f5074b76eb8cc65da40b43bb2edf1716"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.x86_64-unknown-freebsd.tar.gz"
+[[libmicrohttpd]]
+arch = "x86_64"
+git-tree-sha1 = "f3c9aac71d7865a30e4b78fef47e77d4f439eefe"
+os = "windows"
+
+    [[libmicrohttpd.download]]
+    sha256 = "513229b6017eeb0c2bb3bdef0773db595a7e16dcc004a447ec06d62e37c85f7a"
+    url = "https://github.com/JuliaBinaryWrappers/libmicrohttpd_jll.jl/releases/download/libmicrohttpd-v0.9.73+0/libmicrohttpd.v0.9.73.x86_64-w64-mingw32.tar.gz"
